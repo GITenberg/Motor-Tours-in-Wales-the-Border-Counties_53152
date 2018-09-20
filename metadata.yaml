@@ -1,0 +1,33 @@
+_repo: Motor-Tours-in-Wales-the-Border-Counties_53152
+_version: 0.0.1
+alternative_title: Motor Tours in Wales and the Border Counties
+contributor:
+  photographer:
+    agent_name: Stawell, R. De S.
+    gutenberg_agent_id: '43569'
+    url: http://www.gutenberg.org/2009/agents/43569
+creator:
+  author:
+    agent_name: Stawell, Rodolph, Mrs.
+    aliases:
+    - Key, Maud Margaret
+    - Stawell, Maud Margaret Key
+    - Stawell, Mrs. Rodolph
+    gutenberg_agent_id: '39350'
+    url: http://www.gutenberg.org/2009/agents/39350
+description: ''
+gutenberg_issued: '2016-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53152'
+  lccn: '84167709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wales -- Description and travel'
+- GITenberg
+title: Motor Tours in Wales & the Border Counties
+url: http://www.gutenberg.org/ebooks/53152
